@@ -1,7 +1,7 @@
 -- +goose Up
 CREATE TABLE delivery_requests(
   id UUID PRIMARY KEY,
-  recepient TEXT NOT NULL,
+  recipient TEXT NOT NULL,
   subject TEXT NOT NULL,
   body TEXT NOT NULL,
   status TEXT NOT NULL,
