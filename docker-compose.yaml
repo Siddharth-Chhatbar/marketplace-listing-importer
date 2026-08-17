@@ -1,3 +1,5 @@
+name: marketplace-listing-importer
+
 services:
   postgres:
     image: postgres:18

@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Siddharth-Chhatbar/reliable-email-delivery/internal/api"
+	"github.com/Siddharth-Chhatbar/marketplace-listing-importer/internal/api"
 	_ "github.com/lib/pq"
 )
 

@@ -1,6 +1,6 @@
-# Reliable Email Delivery
+# Marketplace Listing Importer
 
-This project demonstrates durable acceptance and asynchronous email delivery with Go and PostgreSQL. The current foundation provides a PostgreSQL container, versioned Goose migrations, and separate process-liveness and database-readiness probes.
+This project demonstrates reliable, atomic marketplace listing imports with Go and PostgreSQL. The current foundation provides a PostgreSQL container, versioned Goose migrations, and separate process-liveness and database-readiness probes.
 
 ## Prerequisites
 

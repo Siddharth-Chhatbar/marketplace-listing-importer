@@ -1,2 +1,6 @@
 .env
 bin/
+docs/
+BUILD-ROADMAP.md
+CONTEXT.md
+PROJECT-BRIEF.md

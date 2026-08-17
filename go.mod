@@ -1,4 +1,4 @@
-module github.com/Siddharth-Chhatbar/reliable-email-delivery
+module github.com/Siddharth-Chhatbar/marketplace-listing-importer
 
 go 1.26.3
 
